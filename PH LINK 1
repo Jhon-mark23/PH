@@ -1,16 +1,65 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMK7Fd5.png" group-title="All Channels",GTV PH
+http://vstream.vip:2889/live/01650052E1FBAD22FBDD83A9A8E8B01D/1
+
+#EXTINF:-1 group-title="All Channels",HEART OF ASIA PH
+http://vstream.vip:2889/live/01650052E1FBAD22FBDD83A9A8E8B01D/4642
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",I ❤️ MOVIES PH
+http://vstream.vip:2889/live/01650052E1FBAD22FBDD83A9A8E8B01D/4631
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uAqFMLy.png" tvg-name="" group-title="All Channels",GMA TV BACKUP
+https://ln.run/mikephgma7?.m3u8
+
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" tvg-name="GMATV.ph" group-title="All Channels",GMA TV
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" tvg-name="GMATV.ph" group-title="All Channels",GMA TV 2
+http://vstream.vip:2889/live/01650052E1FBAD22FBDD83A9A8E8B01D/23
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" tvg-name="" group-title="All Channels",Kapamilya Online live
+https://ln.run/MikephKapamilya?.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",THRILL test
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567745.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",TVN PINOY MOVIES(limited)
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253481&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="All Channels" , NBA TV
 https://livecdn-iptv001.rumsport.com/stream/762/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="All Channels" , TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="All Channels",NET 25 (BUCKUP)
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",A2Z (limited)
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926206&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="All Channels" , One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",ONE SPORTS (LIMITED)
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F2:D0:BB&stream=731814&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/709Uy7N.png" group-title="All Channels",PBO PH BACKUP
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567735.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="All Channels" , True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",HBO HD (limited)
+http://125.227.210.55:8153/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",Disney channel
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax.jp" group-title="Animation",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="All Channels" , TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
@@ -142,6 +191,9 @@ https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="All Channels" , AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/800px-INCTV_Logo_With_Shadow.webp.png" tvg-name="" group-title="All Channels",INCTV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="All Channels" , Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 
@@ -187,14 +239,19 @@ http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="HBO",HBO(1080p) 
 http://41.205.93.154/HBO/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWLAxaI.png" group-title="All Channels",HBO Xtreme
+http://168.181.122.234:8000/play/a02s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOEtOr5.png" group-title="All Channels",HBO2
+http://168.181.122.234:8000/play/a02p
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OspRTI.png" group-title="All Channels",HBO3
+http://185.236.229.62:9981/play/a062
+#EXTINF:-1 tvg-id="" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" tvg-name="" group-title="All Channels",MovieSphere
+https://ln.run/Mikephmoviesphere
+
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",FOX East (WFXT) (720p)
 http://143.244.60.30/FOX_EAST/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" tvg-name="GMATV.ph" group-title="All Channels",GMA TV
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" tvg-name="" group-title="All Channels",Kapamilya Online live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719748451/ei/A_OAZpmMFabm7OsPk82u2A8/ip/152.32.104.39/id/isdnSeLfPso.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166969/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f2I2gG07MWgAC9wJA4vKCXUOvimEym00oemKFlE5lv620owSuHU-pNVS1O0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALAYdsBHLEMZcDSqy9-N-dJQy4q3ZwvDixDoy9lCMfQYAiBw2uh7ksSDay4O2Hy4x6WC9BEnswLFppNfTd-203udKQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="All Channels",KAPAMILYA CHANNEL
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/kapamilyachannel/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
@@ -253,5 +310,3 @@ https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QQzfEFj.png group-title=" tvg-name="" group-title="All",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax.jp" group-title="Animation",Animax
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
