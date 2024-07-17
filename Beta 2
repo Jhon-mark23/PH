@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" tvg-name="Cinema.One.ph" group-title="All Channels",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" tvg-name="ONE SPORTS" group-title="All Channels",ONE SPORTS
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/546796.m3u8
